@@ -2,7 +2,7 @@ public class Test05 {
     public static void main(String[] args) {
         System.out.println("Hello World");
 
-        int a = 10;
+        int a = 1000000;
         int b = 5;
 
         int sum = a + b;
